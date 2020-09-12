@@ -1,0 +1,23 @@
+/*label.error{
+	color: red;
+}*/
+.logo{
+	padding-bottom: 20px;
+	padding-left: 77px;
+	
+}
+
+.login-link{
+	color: #333;
+
+}
+
+input.mdl-button:hover,
+input.mdl-button:active{
+	color:#E74145;
+}
+
+a.text-color--smoke:hover{
+	color:#E74145;
+
+}
